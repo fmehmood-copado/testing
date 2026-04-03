@@ -1,0 +1,1 @@
+#This is my resource folder with all the premade configs. 
